@@ -1,3 +1,0 @@
-name = "shirazi-proxy"
-compatibility_date = "2026-02-23"
-main = "worker.js"
