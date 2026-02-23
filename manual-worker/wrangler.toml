@@ -1,3 +1,3 @@
 name = "shirazi-proxy"
 compatibility_date = "2026-02-23"
-main = "worker.js"   # یا هر مسیری که فایل اصلی هست
+main = "worker.js"
