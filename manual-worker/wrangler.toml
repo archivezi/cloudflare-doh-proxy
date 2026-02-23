@@ -1,5 +1,3 @@
-{
-  "name": "اسم-worker-شما",
-  "compatibility_date": "2026-02-23",
-  "main": "manual-worker.js"
-}
+name = "اسم-worker-شما"
+compatibility_date = "2026-02-23"
+main = "manual-worker.js"   # یا هر مسیری که فایل اصلی هست
